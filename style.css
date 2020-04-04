@@ -1,0 +1,43 @@
+*{
+   
+    box-sizing:border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    width:18%;
+    
+    text-align: center;
+    margin: 60px  100px ;
+    padding:20px 0px;
+    background-color: #cccccc
+    
+ }
+ .button{
+     padding: 0px 40px 0 0;
+     margin: 3px;
+    min-width:110%;
+     margin: 0 9px;;
+    
+ }
+
+ .btn{
+     padding:10px 30px 10px 15px;
+    width:22.5%;
+     height: 35%;
+     cursor: pointer;
+     border: 1px solid black;
+     text-align: center;
+ }
+
+ input[type="text"]{
+      padding:10px 5px;
+      margin-top:-20px;
+      width:90%;
+      font-size: 25px;
+      margin-bottom:5px;
+      border: 1px solid gray;
+      text-align: right;
+ }
+ h4{
+     margin-top:20px;
+ }
